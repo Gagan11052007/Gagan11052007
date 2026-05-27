@@ -1,5 +1,12 @@
 ## Hi there, myself Gagan Giriyappa👋
-
+- 🔭 **I’m currently working on:** Hackathon project
+- 🌱 **I’m currently learning:** Python
+- 👯 **I’m looking to collaborate on:** 
+- 🤔 **I’m looking for help with:** Ai career guidance app
+- 💬 **Ask me about:** 
+- 📫 **How to reach me:** giriyappagagan@gmail.com
+- 😄 **Pronouns:**
+- ⚡ **Fun fact:* unfortunately nothing
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 # 📊 GitHub Stats:
