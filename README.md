@@ -1,4 +1,4 @@
-## Hi there, Myself Gagan Giriyappa👋
+## Hi there, myself Gagan Giriyappa👋
 
 <!--
 **Gagan11052007/Gagan11052007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
